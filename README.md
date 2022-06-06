@@ -4,7 +4,7 @@
 用法：
 
 ```
-python3 get.py  从launchapd下载符号
-python3 find.py offset func/var   
+python3 get.py  #从launchapd下载符号
+python3 find.py offset func/var   #偏移 函数名/变量
 ```
 
